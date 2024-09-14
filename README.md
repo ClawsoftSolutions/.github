@@ -16,11 +16,11 @@ A robust physics library designed to handle complex simulations with accuracy an
 Features: Collision detection, physics components, dynamic simulations.
 Repository: https://github.com/PurrfectTechnologies/PurrPhysics
 ## Socials
-### ![](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) Discord Server: https://discord.gg/phmSFP6mX2
-### ![](https://img.icons8.com/?size=100&id=111057&format=png&color=000000) X: https://x.com/ImagineForgee (We don't have a dedicated twitter yet)
-### ![](https://img.icons8.com/?size=100&id=63807&format=png&color=000000) Website: https://purrfectengine.com (A Work in progress, not officially up yet)
+###  ![](./Emojis/discord.png) Discord Server: https://discord.gg/phmSFP6mX2
+### ![](./Emojis/twitterx.png) X: https://x.com/ImagineForgee (We don't have a dedicated twitter yet)
+###  🌐 Website: https://purrfectengine.com (A Work in progress, not officially up yet)
 ## Contributing
-We welcome all contributions, whether it’s bug fixes, new features, or documentation improvements. Please check our Contributing Guide for more details.
+We welcome all contributions, whether it’s bug fixes, new features, or documentation improvements. Please check our ![Contributing Guide](CONTRIBUTING.md#how-to-contribute) for more details.
 
 License
 All projects under PurrfectTechnologies are licensed under the MIT License.
