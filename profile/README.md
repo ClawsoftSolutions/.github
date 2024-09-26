@@ -1,6 +1,6 @@
-# PurrfectTechnologies 🐾
+# ClawsoftSolutions 🐾
 
-Welcome to PurrfectTechnologies, where we craft innovative, playful, and purrfectly engineered solutions! 🐱✨
+Welcome to ClawsoftSolutions, where we craft innovative, playful, and purrfectly engineered solutions! 🐱✨
 
 ## About Us
 
@@ -10,7 +10,7 @@ PurrfectTechnologies is a developer-centric organization focused on building hig
 
 ### 🕹️ PurrfectEngine
 
-[PurrfectEngine](https://github.com/PurrfectTechnologies/PurrfectEngine) is an apllication and game engine designed to be friendly for everyone whether a beginner or an expert, featuring: C++ api, custom scripting language, and more.
+[PurrfectEngine](https://github.com/PurrfectTechnologies/PurrfectEngine) is an appllication and game engine designed to be friendly for everyone whether a beginner or an expert, featuring: C++ api, custom scripting language, and more.
 
 ### 🛠️ Physics Library
 A robust physics library designed to handle complex simulations with accuracy and performance in mind. It’s perfect for integrating into game engines or other interactive applications.
