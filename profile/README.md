@@ -21,7 +21,7 @@ Repository: https://github.com/PurrfectTechnologies/PurrPhysics
 ## Socials
 
 ### ![](./Emojis/discord.png) Discord Server: https://discord.gg/phmSFP6mX2
-### ![](./Emojis/twitterx.png) X: https://x.com/ImagineForgee (We don't have a dedicated twitter yet)
+### ![](./Emojis/twitterx.png) X: https://x.com/ClawsoftSol
 ### 🌐 Website: https://purrfectengine.com (A Work in progress, not officially up yet)
 
 ## Contributing
